@@ -22,7 +22,7 @@ I'm a passionate developer who enjoys learning and building things with code. I'
 
 #### 📫 Let's Connect:
 - [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourusername) *(if you have one)*
+- [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
 
