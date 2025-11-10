@@ -7,15 +7,14 @@ I'm a passionate developer who enjoys learning and building things with code. I'
 #### 🛠️ Tech Stack:
 - **Languages:** HTML, CSS, JavaScript, Java, C#, C++, C
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
-- **Backend:** Node.js
+- **Backend:** Spring Boot
 - **Databases & Tools I'm Exploring:** MongoDB, Express.js, Spring
 - **Other Interests:** Full-stack development, backend architecture, performance optimization
 
 ---
 
 #### 🚀 Currently Learning:
-- Express.js (Node.js framework)
-- MongoDB (NoSQL database)
+- Postgre SQL (SQL database)
 - Spring Framework (Java backend)
 
 ---
