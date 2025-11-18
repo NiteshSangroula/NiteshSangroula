@@ -8,7 +8,7 @@ I'm a passionate developer who enjoys learning and building things with code. I'
 - **Languages:** HTML, CSS, JavaScript, Java, C#, C++, C
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 - **Backend:** Spring Boot
-- **Databases & Tools I'm Exploring:** MongoDB, Express.js, Spring
+- **Databases & Tools I'm Exploring:** PostgreSQL, Spring Boot
 - **Other Interests:** Full-stack development, backend architecture, performance optimization
 
 ---
