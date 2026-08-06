@@ -1,26 +1,57 @@
 # Hey there 👋
 
-> BCA Student | Backend Enthusiast | vim > emacs
+I'm **Nitesh**, a BCA student passionate about building reliable software and understanding how systems work under the hood. My primary interest is backend engineering, but I also enjoy exploring Linux, developer tooling, software architecture, and full-stack development.
 
-## $ whoami
-I'm a BCA student who enjoys building things and breaking them (then fixing them). Currently diving deep into backend development with Spring Boot and exploring the endless rabbit holes of tech.
-Current Setup:
+## 👨‍💻 About Me
 
-- 🐧 OS: Arch Linux (btw)
+- 🎓 BCA Student
+- 🐧 OS: EndeavourOS
 - ⚙️ Editor: Neovim
-- 💻 Languages: Java, C, C++, c#, javascript
-- 🎯 Focus: Backend Development with Spring Boot
+- ☕ Primary Language: Java
+- 🎯 Currently Learning: Spring Boot, Vue, TypeScript, PostgreSQL, and modern full-stack development
 
 ## 🛠️ Tech Stack
-```
-Languages:    Java, C
-Backend:      Spring Boot
-Tools:        Git, Linux, Neovim
-Learning:     Backend development, Linux customization, system programming, developer tooling, and building scalable real-world projects.
-Interests:    Spring Boot, microservices, database design, Linux internals, and structured software architecture.
-```
+
+### Languages
+- Java
+- C
+- C++
+- JavaScript
+- TypeScript *(Learning)*
+
+### Backend
+- Spring Boot
+- REST APIs
+
+### Frontend
+- Vue *(Learning)*
+- HTML
+- CSS
+- Tailwind CSS *(Learning)*
+
+### Database
+- PostgreSQL
+- MongoDB
+
+### Tools
+- Git & GitHub
+- Linux
+- Docker
+- Maven
+- Neovim
+
+## 🌱 Interests
+
+- Backend Engineering
+- Software Architecture
+- Database Design
+- Linux & Open Source
+- System Programming
+- Developer Tooling
+- Full-Stack Development
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiteshSangroula&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
   <br/>
@@ -28,13 +59,7 @@ Interests:    Spring Boot, microservices, database design, Linux internals, and 
 </div>
 
 ## 📫 Connect
-<!-- Add your social links below -->
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/nitesh-sangroula-674159330/]
-- 📧 Email: [sangroulanitesh123@gmail.com]
-<!-- 🌐 Portfolio: [Your website] (if you have one) -->
-
-
-<div align="center">
-  <i>// TODO: Build something awesome today</i>
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/nitesh-sangroula-674159330/
+- 📧 Email: sangroulanitesh123@gmail.com
+```
