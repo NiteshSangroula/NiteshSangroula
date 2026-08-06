@@ -17,17 +17,17 @@ I'm **Nitesh**, a BCA student passionate about building reliable software and un
 - C
 - C++
 - JavaScript
-- TypeScript *(Learning)*
+- TypeScript *(exploring)*
 
 ### Backend
 - Spring Boot
 - REST APIs
 
 ### Frontend
-- Vue *(Learning)*
+- Vue *(exploring)*
 - HTML
 - CSS
-- Tailwind CSS *(Learning)*
+- Tailwind CSS *(exploring)*
 
 ### Database
 - PostgreSQL
